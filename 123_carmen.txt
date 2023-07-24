@@ -1,0 +1,9 @@
+Número de nómina: 123
+Nombre del usuario: Carmen
+Cantidad de videos: 1
+
+Título del video 1: Deportes
+Nombre del video 1: Futbol
+Extensión del video 1: mpg
+Tamaño del video 1: 2
+

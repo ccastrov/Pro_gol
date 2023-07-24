@@ -1,0 +1,14 @@
+Número de nómina: 9852
+Nombre del usuario: David
+Cantidad de videos: 2
+
+Título del video 1: copas
+Nombre del video 1: copas2
+Extensión del video 1: mpg
+Tamaño del video 1: 2
+
+Título del video 2: ccc
+Nombre del video 2: ccc
+Extensión del video 2: mpg
+Tamaño del video 2: 2
+

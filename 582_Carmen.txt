@@ -1,0 +1,14 @@
+Número de nómina: 582
+Nombre del usuario: Carmen
+Cantidad de videos: 2
+
+Título del video 1: Deportes
+Nombre del video 1: natacion
+Extensión del video 1: mpg
+Tamaño del video 1: 1
+
+Título del video 2: Alpinismo
+Nombre del video 2: Montana
+Extensión del video 2: mov
+Tamaño del video 2: 3
+

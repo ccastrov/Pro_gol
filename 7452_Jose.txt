@@ -1,0 +1,14 @@
+Número de nómina: 7452
+Nombre del usuario: Jose
+Cantidad de videos: 2
+
+Título del video 1: Mundiales2023
+Nombre del video 1: juegofinal
+Extensión del video 1: mov
+Tamaño del video 1: 2
+
+Título del video 2: Mundial2022
+Nombre del video 2: juegofinal
+Extensión del video 2: mpg
+Tamaño del video 2: 3
+
